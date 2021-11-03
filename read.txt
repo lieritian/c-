@@ -1,0 +1,8 @@
+1.CCmdStr.cpp是实现程序
+2.CCmdStr.h是头文件
+3.demo20.cpp是demo调用
+4.demo是执行程序
+5._cmpublic.h 常用头文件都有
+g++ CCmdStr.cpp demo20.cpp -o demo
+
+
